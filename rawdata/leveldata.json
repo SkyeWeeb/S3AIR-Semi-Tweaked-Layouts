@@ -1,0 +1,195 @@
+{
+
+ //AIZ Act 1 
+
+ "aiz1_objects": { "File": "aiz1_objects.bin" }, 
+
+ "aiz1_rings": { "File": "aiz1_rings.bin"},
+
+ //AIZ Act 2 
+
+ "aiz2_layout": { "File": "aiz2_layout.bin" }, 
+
+ "aiz2_objects": { "File": "aiz2_objects.bin" }, 
+
+ "aiz2_rings": { "File": "aiz2_rings.bin"},
+ 
+ //HCZ Act 1 
+
+ "hcz1_layout": { "File": "hcz1_layout.bin" }, 
+
+ "hcz1_objects": { "File": "hcz1_objects.bin" }, 
+
+ "hcz1_rings": { "File": "hcz1_rings.bin"},
+ 
+ //HCZ Act 2 
+
+ "hcz2_layout": { "File": "hcz2_layout.bin" }, 
+
+ "hcz2_objects": { "File": "hcz2_objects.bin" }, 
+ 
+ "hcz2_rings": { "File": "hcz2_rings.bin"},
+ 
+ //MGZ Act 1 
+
+ "mgz1_layout": { "File": "mgz1_layout.bin" }, 
+ 
+ "mgz1_objects": { "File": "mgz1_objects.bin" }, 
+
+ "mgz1_rings": { "File": "mgz1_rings.bin"},
+ 
+ //MGZ Act 2 
+
+ "mgz2_layout": { "File": "mgz2_layout.bin" }, 
+
+ "mgz2_objects": { "File": "mgz2_objects.bin" }, 
+
+ "mgz2_rings": { "File": "mgz2_rings.bin"},
+ 
+ //CNZ Act 1 
+ 
+ "cnz1_layout": { "File": "cnz1_layout.bin" }, 
+
+ "cnz1_objects": { "File": "cnz1_objects.bin" }, 
+
+ "cnz1_rings": { "File": "cnz1_rings.bin"},
+ 
+ //CNZ Act 2 
+
+ "cnz2_layout": { "File": "cnz2_layout.bin" }, 
+
+ "cnz2_objects": { "File": "cnz2_objects.bin" }, 
+
+ "cnz2_rings": { "File": "cnz2_rings.bin"},
+ 
+ //ICZ Act 1 
+
+ "icz1_layout": { "File": "icz1_layout.bin" }, 
+ 
+ "icz1_objects": { "File": "icz1_objects.bin" }, 
+
+ "icz1_rings": { "File": "icz1_rings.bin"},
+ 
+ //ICZ Act 2 
+
+ "icz2_layout": { "File": "icz2_layout.bin" }, 
+
+ "icz2_objects": { "File": "icz2_objects.bin" }, 
+
+ "icz2_rings": { "File": "icz2_rings.bin"},
+ 
+ //LBZ Act 1 
+
+ "lbz1_layout": { "File": "lbz1_layout.bin" }, 
+ 
+ "lbz1_objects": { "File": "lbz1_objects.bin" }, 
+
+ "lbz1_rings": { "File": "lbz1_rings.bin"},
+ 
+ //LBZ Act 2 
+
+ "lbz2_layout": { "File": "lbz2_layout.bin" }, 
+
+ "lbz2_objects": { "File": "lbz2_objects.bin" }, 
+
+ "lbz2_rings": { "File": "lbz2_rings.bin"},
+ 
+ //MHZ Act 1 
+
+ "mhz1_layout": { "File": "mhz1_layout.bin" }, 
+
+ "mhz1_objects": { "File": "mhz1_objects.bin" }, 
+
+ "mhz1_rings": { "File": "mhz1_rings.bin"},
+ 
+ //MHZ Act 2 
+
+ "mhz2_layout": { "File": "mhz2_layout.bin" }, 
+
+ "mhz2_objects": { "File": "mhz2_objects.bin" }, 
+
+ "mhz2_rings": { "File": "mhz2_rings.bin"},
+ 
+ //FBZ Act 1 
+
+ "fbz1_layout": { "File": "fbz1_layout.bin" }, 
+
+ "fbz1_objects": { "File": "fbz1_objects.bin" }, 
+
+ "fbz1_rings": { "File": "fbz1_rings.bin"},
+ 
+ //FBZ Act 2
+
+ "fbz2_layout": { "File": "fbz2_layout.bin" }, 
+
+ "fbz2_objects": { "File": "fbz2_objects.bin" }, 
+
+ "fbz2_rings": { "File": "fbz2_rings.bin"},
+ 
+ //SOZ Act 1 
+
+ "soz1_layout": { "File": "soz1_layout.bin" }, 
+
+ "soz1_objects": { "File": "soz1_objects.bin" }, 
+
+ "soz1_rings": { "File": "soz1_rings.bin"},
+ 
+ //SOZ Act 2 
+
+ "soz2_layout": { "File": "soz2_layout.bin" }, 
+
+ "soz2_objects": { "File": "soz2_objects.bin" }, 
+
+ "soz2_rings": { "File": "soz2_rings.bin"},
+ 
+ //LRZ Act 1 
+
+ "lrz1_layout": { "File": "lrz1_layout.bin" }, 
+
+ "lrz1_objects": { "File": "lrz1_objects.bin" }, 
+
+ "lrz1_rings": { "File": "lrz1_rings.bin"},
+ 
+ //LRZ Act 2 
+
+ "lrz2_layout": { "File": "lrz2_layout.bin" }, 
+ 
+ "lrz2_objects": { "File": "lrz2_objects.bin" }, 
+ 
+ "lrz2_rings": { "File": "lrz2_rings.bin"},
+ 
+ //LRZ Act 3
+
+ "hpz1_objects": { "File": "lrz3_objects.bin" },
+
+ //HPZ
+
+ "hpz2_objects": { "File": "hpz1_objects.bin" }, 
+
+ "hpz2_rings": { "File": "hpz1_rings.bin"},
+ 
+ //SSZ
+
+ "ssz1_objects": { "File": "ssz1_objects.bin" }, 
+ 
+ //DEZ Act 1
+
+ "dez1_layout": { "File": "dez1_layout.bin" }, 
+ 
+ "dez1_objects": { "File": "dez1_objects.bin" }, 
+
+ "dez1_rings": { "File": "dez1_rings.bin"},
+ 
+ //DEZ Act 2 
+
+ "dez2_layout": { "File": "dez2_layout.bin" },
+ 
+ "dez2_objects": { "File": "dez2_objects.bin" }, 
+ 
+ "dez2_rings": { "File": "dez2_rings.bin"},
+ 
+ //DEZ Act 3
+ 
+ "ddz2_rings": { "File": "dez3_rings.bin"},
+ 
+ }

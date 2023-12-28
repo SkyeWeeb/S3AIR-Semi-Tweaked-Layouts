@@ -164,6 +164,8 @@
 
  //HPZ
 
+ "hpz2_layout": { "File": "hpz1_layout.bin" }, 
+
  "hpz2_objects": { "File": "hpz1_objects.bin" }, 
 
  "hpz2_rings": { "File": "hpz1_rings.bin"},

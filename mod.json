@@ -3,7 +3,8 @@
 	{
 		"Name": "Semi-Tweaked Layouts",
 		"Author": "SkyeWeeb",
-		"Description": "Ever-so slight layout changes to fix pacing issues, along with adding new paths and shortcuts.",
-		"ModVersion": "DEV",
+		"Description": "Tweaks the level design of Sonic 3K's zones to fix pacing issues, while also adding new paths, shortcuts, and other fun goodies.",
+		"URL": "https://github.com/SkyeWeeb/S3AIR-Semi-Tweaked-Layouts",
+		"ModVersion": "1.4.1",
 	}
 }

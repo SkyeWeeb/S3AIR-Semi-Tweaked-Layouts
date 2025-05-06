@@ -171,8 +171,11 @@
  "hpz2_rings": { "File": "hpz1_rings.bin"},
  
  //SSZ
+ "ssz1_layout": { "File": "ssz1_layout.bin" }, 
 
  "ssz1_objects": { "File": "ssz1_objects.bin" }, 
+ 
+ "ssz1_rings": { "File": "ssz1_rings.bin" }, 
  
  //DEZ Act 1
 

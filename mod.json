@@ -3,8 +3,8 @@
 	{
 		"Name": "Semi-Tweaked Layouts",
 		"Author": "SkyeWeeb",
-		"Description": "Sonic 3 AIR mod which slightly tweaks the level design to add new routes, fix some questionable level design, and reduce downtime.",
+		"Description": "Slightly tweaks the level design to reduce downtime, alongside adding all sorts of new secret areas and skips to discover.",
 		"URL": "https://github.com/SkyeWeeb/S3AIR-Semi-Tweaked-Layouts",
-		"ModVersion": "DEV",
+		"ModVersion": "1.6 RC",
 	}
 }
